@@ -234,4 +234,4 @@ XDefiant is offered as a full free version with all features and updates include
 Don't miss out on the action! Download XDefiant now and step into the battle for tactical supremacy!
 
 ---
-**Last updated:** 2026-11-13 20:15:35 UTC
+**Last updated:** 2026-11-14 01:12:46 UTC
